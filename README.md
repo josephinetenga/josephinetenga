@@ -2,10 +2,14 @@
 
 I am Josephine Tenga
 <br>
+<br>
 Software Engineer | System Analyst | Data Scientist
-
-- 🌱 I’m currently learning Mobile Development
-- 📫 How to reach me: jozeygeofrey44@gmail.com
+<br>
+<br>
+🌱 I’m currently learning Mobile Development
+<br>
+<br>
+📫 How to reach me: jozeygeofrey44@gmail.com
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
